@@ -87,10 +87,11 @@ python main.py
 *Screenshots of the game.*
 
 
-![Application Screenshot 01](Assets/Screenshot%2026-07-10%012122.png)
+![Application Screenshot 01](https://github.com/CodeCopAkash/snake_game/blob/189bbabf77fc7d0ca23232c4f37b425fdab91bac/Assets/Screenshot%202026-07-10%20012122.png)
 
 
-![Application Screenshot 02](Assets/Screenshot%2026-07-10%012122.png)
+
+![Application Screenshot 02](https://github.com/CodeCopAkash/snake_game/blob/189bbabf77fc7d0ca23232c4f37b425fdab91bac/Assets/Screenshot%202026-07-10%20012255.png)
 
 ---
 
