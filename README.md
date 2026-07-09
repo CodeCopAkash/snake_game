@@ -87,10 +87,10 @@ python main.py
 *Screenshots of the game.*
 
 
-![Application Screenshot](Assets/Screenshot 2026-07-10 012122.png)
+![Application Screenshot 01](Assets/Screenshot%2026-07-10%012122.png)
 
 
-![Application Screenshot](Assets/Screenshot 2026-07-10 012255.png)
+![Application Screenshot 02](Assets/Screenshot%2026-07-10%012122.png)
 
 ---
 
