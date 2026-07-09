@@ -84,14 +84,14 @@ python main.py
 
 ## 📸 Screenshot
 
-*Add a screenshot of your game here.*
+*Screenshots of the game.*
 
-```
-Assets/Screenshot 2026-07-10 012122
-```
-```
-Assets/Screenshot 2026-07-10 012255
-```
+
+![Application Screenshot](Assets/Screenshot 2026-07-10 012122.png)
+
+
+![Application Screenshot](Assets/Screenshot 2026-07-10 012255.png)
+
 ---
 
 ## 📚 Concepts Practiced
