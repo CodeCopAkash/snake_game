@@ -87,9 +87,11 @@ python main.py
 *Add a screenshot of your game here.*
 
 ```
-assets/screenshot.png
+Assets/Screenshot 2026-07-10 012122
 ```
-
+```
+Assets/Screenshot 2026-07-10 012255
+```
 ---
 
 ## 📚 Concepts Practiced
